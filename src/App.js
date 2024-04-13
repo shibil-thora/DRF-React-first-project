@@ -1,5 +1,6 @@
 import './App.css';
-import Hello from './Hello';
+import AddPatient from './Components/AddPatient';
+import Hello from './Components/PatientList';
 
 function App() {
   return(
